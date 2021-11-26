@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CV Rosario</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <p align="left" style="border-top: none; border-bottom: 1.50pt solid #000000; border-left: none; border-right: none; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0in; padding-right: 0in">
+<font size="6" style="font-size: 28pt"><font color="#00000a">Rosario
+        Santos Fernández</font></font>
+   
+        <p>Plaza Pablo Neruda, 4 Montalbán de Córdoba, Córdoba 14548 | 674837771 | rosariosantos2014.rsf@gmail.com</p>
+    <ul>
+       <li><h2>OBJETIVO</h2></li>
+    
+    <p> Establecerme y consolidarme en una empresa que me otorgue estabilidad laboral, aplicar mis experiencias y conocimientos en las distintas áreas de la empresa, y desarrollarme profesionalmente para el buen desempeño de las funciones asignadas.
+        Superarme en todos los aspectos de mi vida, brindando lo mejor de mí cada día, tanto en el aspecto laboral como en el aspecto personal </p>
+    <li><h2>EDUCACIÓN</h2></li>
+   <ul class="a">
+       <li><h4>TITULACIÓN | 2015-2020 | IES MAESTRO ELOY VAQUERO</li> </h4>
+    <p>Título de Educación Secundaria Obligatoria</p>
+    <li><h4>TITULACIÓN | 2020-2022 | IES PROFESOR TIERNO GALVAN</li> </h4>
+    <p>Actualmente realizando el curso de formacion profesional Grado Medio de Sistemas Microinformaticos y Redes</p>
+    </ul>
+    <li><h2>APTITUDES Y HABILIDADES</h2></li>
+    <p>Técnica informática altamente experimentada y capacitada, con una sólida formación técnica. Preparada para desarrollar conceptos técnicos complejos a clientes de forma clara y comprensible. Capacitada para realizar múltiples tareas, tales como instalación y reparación de sistemas informáticos, con total precisión y eficiencia</p>
+    <li><h2>EXPERIENCIA</h2></li>
+    <ul class="a">
+    <li><h3>MONTAJE Y MANTENIMIENTO DE EQUIPOS | BEEP | MONTILLA</h3></li>
+    <p>Tiempo dedicado a la reparación, montaje y el mantenimiento de equipos informáticos en la empresa BEEP de Montilla.
+    </ul>
+    <img src="/Users/ComputerStore MTB/Downloads/20210503_221609.jpg"
+    </p>
+</body>
+</html>
